@@ -3,6 +3,9 @@
 This module B6286 Step Up adjustable boost converter accepts input voltage from 2V to 24V, and adjustable output 2V to 28V boost regulator module. Typical Applications for Single cell battery Operated devices, Single cell (AA,AAA) Phone battery Charger, Small Size Solar Chargers for cellphones. Can be used as Breadboard/Lab power supply.
 http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=1283
 
+![Imgur](http://i.imgur.com/r2IBmxl.jpg)
+
+### PCB Layout Guide
 ![Imgur](http://i.imgur.com/ODEKXcN.png)
 ![Imgur](http://i.imgur.com/bR7qBSQ.png)
 
